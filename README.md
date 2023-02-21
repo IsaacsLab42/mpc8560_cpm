@@ -1,1 +1,2 @@
-# mpc8560_cpm
+# QEMU PowerPC MPC8560 Communication Processor Module
+I take none of the credit for this module. I found a Korean blog post [Hardware modeling with QEMU](https://blog.noyecube.com/entry/QEMU%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81) and found the contents useful. This is just a copy of their code and an English translation of the blog post.
